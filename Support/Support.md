@@ -1,4 +1,4 @@
-===| NeTT OS Mobile Support |===
+**NeTT OS Mobile Support**
 
 - TouchOS CE 1.0 - Released: 01/06/2020 - Status: Not supported as of 01/06/2021
 - TouchOS CE 1.1 - Released: 29/11/2020 - Status: Not supported as of 29/11/2021
